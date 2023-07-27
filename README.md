@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @siddharthcoder
+- 👋 Hi, I’m @siddharth
 - 👀 I’m interested in Software Engineering  & Web Development(Full Stack Developer)
 - 🌱 I’m currently learning Javascript and React 
 - 💞️ I’m looking to collaborate on App development
